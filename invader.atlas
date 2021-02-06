@@ -1,5 +1,5 @@
 {
-    "invader.png": {
+    "images/invader.png": {
         "frame1": [0, 0, 32, 32],
         "frame2": [32, 0, 32, 32]
     }
